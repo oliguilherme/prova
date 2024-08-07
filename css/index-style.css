@@ -1,0 +1,14 @@
+* {
+    font-family: sans-serif;
+    color: #444;
+}
+
+section {
+    width: 700px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+table {
+    margin-bottom: 15px;
+}
